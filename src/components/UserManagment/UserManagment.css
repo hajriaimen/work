@@ -1,0 +1,12 @@
+.rome-margin{
+    margin-right: 3%;
+    position:'center';
+
+}
+.rome-Backround{
+    background-color:  #8E001C;
+}
+.pagination .page-item .page-link{
+    border-color:#8E001C ;
+    color: #8E001C
+}
